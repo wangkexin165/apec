@@ -1,0 +1,91 @@
+// Override this file to add your own SCSS styling.
+
+
+.user-icon-avatar {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: darkgrey;
+  font-size: 4rem;
+  margin: 0 auto;
+  object-fit: cover;
+  color: #666;
+}
+
+#section-hero {
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    width: 1rem;
+    height: 1rem;
+  }
+
+  .hero-title {
+    font-size: 1.5rem;
+  }
+  .hero-lead {
+    font-size: 0.8rem;
+  }
+}
+
+#section-news {
+  h1 {
+    font-size: 1.4rem;
+  }
+
+  .card-simple .article-title {
+    font-size: 0.8rem;
+  }
+  .card-simple .article-style {
+    font-size: 0.8rem;
+  }
+
+
+}
+
+@media (max-width: 478px) {
+  .navbar-brand {
+    margin: 0 auto;
+  }
+}
+
+.home-video-wrapper {
+  position: relative;
+
+  .video-title-position {
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .video-title-wrap {
+    color: #ffffff;
+    padding: 0.5rem 2rem;
+
+    background-color: #17535d;
+    border-top: 4px solid #e65100;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    .video-title1 {
+      font-size: 3rem;
+    }
+    .video-subtitle1 {}
+  }
+
+}
+.banner-video1 {
+  max-height: unset !important;
+}
+.navbar {
+  background-color: #17535d;
+}
+#navbar-main .main-menu-item ul li .nav-link {
+  color: #fff;
+}
+.navbar-light .navbar-brand {
+  color: #fff;
+}
+
