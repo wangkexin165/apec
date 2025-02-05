@@ -15,7 +15,7 @@ type: home_index
 heroBlock:
   block: hero
   content:
-    title: Random Matrix Optics Research Group
+    title: The Animal Physiological Ecology and Conservation Lab
 #    image:
 #      filename: research_topic.jpg
     text: |
