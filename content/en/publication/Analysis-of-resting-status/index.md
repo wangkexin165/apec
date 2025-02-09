@@ -44,7 +44,7 @@ url_video: ''
 
 # Publication name and optional abbreviated publication name.
 #publication: "*Ecology, 105*(10)"
-publication:"*Ecology*,105(10):e4414"
+publication: "*Ecology*,105(10):e4414"
 publication_short: ""
 
 
