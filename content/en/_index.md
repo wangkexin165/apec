@@ -30,7 +30,7 @@ heroSlideBlock:
       align: center
       background:
         image:
-          filename: group_slides/groupphoto.jpg
+          filename: group_slides/group_photo1.jpg
           filters:
             brightness: 1
         position: right
@@ -40,7 +40,7 @@ heroSlideBlock:
       align: left
       background:
         image:
-          filename: coders.jpg
+          filename: group_slides/group_photo2.jpg
           filters:
             brightness: 1
         position: right
