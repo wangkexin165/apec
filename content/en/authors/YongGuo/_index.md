@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Yong Guo
+title: Zihan Zhou
 
 # Full name (for SEO)
-first_name: Yong
-last_name: Guo
+first_name: Zihan
+last_name: Zhou
 
 # Username (this should match the folder name)
 authors:
-  YongGuo
+  ZihanZhou
 
 # Role/position
 role: PhD student
@@ -26,12 +26,12 @@ user_groups:
 superuser: false
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests 。。。。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecophysiology
+  - Mechanistic Model
+  - 。。。。
 
 education:
   courses:
@@ -76,6 +76,4 @@ email: ''
 
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zihan Zhou is......
