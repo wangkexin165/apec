@@ -31,19 +31,16 @@ bio: My research interests 。。。。
 interests:
   - Ecophysiology
   - Mechanistic Model
-  - 。。。。
+  - Conservation Biology
 
 education:
   courses:
     - course: PhD in Ecology
       institution: Sun Yat-sen University
-      year: .....
-    - course: MEng in Ecology
-      institution: Sun Yat-sen University
-      year: ...
-    - course: BSc in ???
+      year: 2027
+    - course: BSc in Ecology
       institution: China Agricultural University
-      year: 2023?
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
