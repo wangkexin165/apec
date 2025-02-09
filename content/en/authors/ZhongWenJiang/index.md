@@ -21,7 +21,7 @@ organizations:
     url: '/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .....
+bio: My research interests include ecology,evolution and conservation
 
 interests:
   - Ecophysiology
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zhongwen.jiang0522@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
