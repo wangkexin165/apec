@@ -1,6 +1,6 @@
 ---
-title: Deep fluorescence imaging in complex media,wavefront shaping meets computational imaging
-date: 2024-04-02
+title: Welcome Prof. Michael Kearney to Sun Yat-sen University
+date: 2024-10-17
 image:
   focal_point: 'center'
 share: false
@@ -8,6 +8,6 @@ share: false
 
 
 
-Prof Sylvain Gigan delivered an inspiring lecture online
+Prof. Michael Kearney delivered an inspiring lecture
 
-Welcome Prof Sylvain Gigan delivered the lecture 《Deep fluorescence imaging in complex media,wavefront shaping meets computational imaging》
+Welcome Prof. Michael Kearney delivered the lecture 《Modelling and Mappingthe Ecological Niche》
