@@ -13,7 +13,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
