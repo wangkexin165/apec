@@ -40,7 +40,7 @@ education:
       year: .....
     - course: MEng in Ecology
       institution: Sun Yat-sen University
-      year: ?
+      year: ...
     - course: BSc in ???
       institution: China Agricultural University
       year: 2023?
