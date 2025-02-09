@@ -8,7 +8,7 @@ last_name: Ma
 
 # Username (this should match the folder name)
 authors:
-  - Liang Ma
+  - LiangMa
 
 
 # Organizational groups that you belong to (for People widget)
