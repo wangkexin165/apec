@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - PhD Student
+  - Graduate Student
 
 
 # Is this the primary user of the site?
