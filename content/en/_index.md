@@ -19,7 +19,7 @@ heroBlock:
 #    image:
 #      filename: research_topic.jpg
     text: |
-      Random matrix optics introduces the random matrix toolbox to the representation of light wave-particle duality. Starting in 2019, our group focused on light field representation, decomposition, detection, and manipulation using the random matrix representation. Random matrix representation provides a statistical gating strategy for different components in the light field. For example, the single and multiple scattering component in wide-field reflective imaging; the ballistic and multiple scattering component in spectral-domain OCT. The gated multiple scattering component facilitates the calculation of absorption information for in-vivo tissue imaging.
+      We develop innovative niche models based on empirical study to address fundamental questions in animal physiological ecology. We aim to use those insights to conserve biodiversity in the face of climate change and other environmental changes.
   
 heroSlideBlock:
   block: slider
