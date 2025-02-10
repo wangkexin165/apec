@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - Postdoctoral Research Associate
+  - Alumni
 
 
 # Is this the primary user of the site?
