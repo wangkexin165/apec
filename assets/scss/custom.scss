@@ -117,13 +117,39 @@ $navbar-theme-top-line-primary:  #8dc015; //导航栏顶部横线颜色
       font-size: 1.5rem !important;
       display: none;
     }
+
     .video-subtitle1 {
       font-size: .9rem
     }
+
   }
 
   #navbar-main .main-menu-item ul li .nav-link {
     color: #2e2e2e;
   }
 
+  .people-persons-list-row {
+    flex-direction: column;
+  }
+
+}
+
+
+.people-persons-list-row {
+  display: flex;
+  .person-img {
+    img {
+      max-width: 270px;
+      height: auto;
+    }
+    padding: 1rem;
+
+  }
+  .person-desc {
+    flex: 1;
+    padding-left: 1rem;
+  }
+  .avatar {
+    margin: 0 !important;
+  }
 }
