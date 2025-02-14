@@ -11,7 +11,7 @@ authors:
   Kexin Wang
 
 # Role/position
-role: MS student
+role: Master student
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
     url: '/'
 
 user_groups:
-  - MS Student
+  - Master Student
 
 
 # Is this the primary user of the site?
