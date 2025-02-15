@@ -2,16 +2,9 @@
 title: Research
 date: 2022-10-24
 
-share: false
+share: true
 
 ---
 
-
-This is a python Hello Word [code](https://github.com):
-  
-  ```python
-  def hello_world():
-    print("Hello, World!")
-  
-  hello_world()
-  ```
+1.**Monitoring lizard‘s field body temperature**
+We continuously monitor the field body temperature of the agamid lizards around Sun Yat-sen University，please see Shinyapp：https://apec.shinyapps.io/tree_lizard_shiny/
