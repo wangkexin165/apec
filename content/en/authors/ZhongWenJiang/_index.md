@@ -72,4 +72,5 @@ user_groups:
   - Postdoctoral Research Associate
 ---
 
-Zhong-Wen Jiang is.....
+I obtained my Ph.D. in June 2024 from the Institute of Zoology, Chinese Academy of Sciences, and subsequently joined the APEC Climate Center at Sun Yat-sen University in July 2024 as a postdoctoral researcher. During my doctoral studies, I focus my research on the elevational variation in physiological traits of ectotherms and how the variation affects their response to global climate change. My current researches include building predictive frameworks to assess sea-level rise impacts on global terrestrial vertebrates and developing mechanistic models to explore the flying evolution of reptiles. Through conducting physiological and ecological experiments and utilizing mechanistic models and species distribution models, I am dedicated to addressing crucial issues in the fields of ecology, evolution and conservation biology. I am deeply interested in the formation mechanisms of species spatial patterns, the impacts of climate change on ecosystems, and multidisciplinary conservation biology. My research is question-driven rather than organism-driven, and I enjoy working with a broad range of organism.
+
