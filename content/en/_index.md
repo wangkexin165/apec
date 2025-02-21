@@ -19,7 +19,7 @@ heroBlock:
 #    image:
 #      filename: research_topic.jpg
     text: |
-      The Animal Physiological Ecology and Conservation (APEC) Lab at Sun Yat-sen University focuses on the physiological ecology and conservation of terrestrial animals (especially reptiles and birds). Our research integrates field and controlled experiments with mechanistic and statistical models to explore how animals interact with their environment. By studying physiological responses and ecological dynamics, we assess species’ adaptability and vulnerability to environmental change. Our work aims to enhance biodiversity conservation by bridging experimental research with predictive modeling.
+      The APEC Lab at Sun Yat-sen University focuses on the physiological ecology and conservation of terrestrial animals, especially reptiles and birds. Our research integrates field and controlled experiments with mechanistic and statistical models to explore how animals interact with their environment. By studying physiological responses and ecological dynamics, we assess species’ adaptability and vulnerability to environmental change. Our work aims to enhance biodiversity conservation by bridging experimental research with predictive modeling.
 
   
 heroSlideBlock:
