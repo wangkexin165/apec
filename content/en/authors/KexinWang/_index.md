@@ -37,9 +37,9 @@ education:
     - course: MEng in Ecology
       institution: Sun Yat-sen University
       year: 2024-
-    - course: BSc in Biology？
+    - course: BSc in Biology
       institution: Ocean University of China
-      year: 2020-
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,5 +72,4 @@ email: ''
 
 ---
 
-Kexin Wang is
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My recent research focuses on the influence of thermal biology on road mortality risk in snakes. Through the operative temperature model,I expect to explore the thermophysiological reasons behind the roadkill of snakes and provide physiological explanations for the global roadkill pattern of snakes.
